@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View } from "react-native";
-import React from "react";
+import React, { ComponentType } from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import Home from "../../screens/Home/Home";
 
